@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kanji-jin/static/css/main.41a01614.css",
+    "main.js": "/kanji-jin/static/js/main.9ff0a45b.js",
+    "index.html": "/kanji-jin/index.html",
+    "main.41a01614.css.map": "/kanji-jin/static/css/main.41a01614.css.map",
+    "main.9ff0a45b.js.map": "/kanji-jin/static/js/main.9ff0a45b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a01614.css",
+    "static/js/main.9ff0a45b.js"
+  ]
+}
